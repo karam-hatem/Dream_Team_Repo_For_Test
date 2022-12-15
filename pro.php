@@ -9,6 +9,6 @@ echo "The time is " . date("h:i:sa");
 
 echo "KAram && Ahmad";
 echo " ahmed zaitoun ";
-echo " ahmed 000 ";
+echo " ahmed noooo ";
 
 ?>
